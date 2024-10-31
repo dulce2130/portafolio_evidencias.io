@@ -95,6 +95,7 @@ h1 {
 .sobre-mi .contenedor {
   max-width: 600px;
   text-align: center;
+  margin-top: 20px;
 }
 
 /* Experiencia */
