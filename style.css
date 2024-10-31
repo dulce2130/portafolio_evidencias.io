@@ -350,7 +350,7 @@ footer {
   }
 }
 
-@media screen and (min-width: 412px) {
+@media screen and (min-width: 450px) {
   .seccion-titulo{
     margin-top: 50px;
     font-size: 22px;
